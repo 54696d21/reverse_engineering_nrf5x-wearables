@@ -11,14 +11,16 @@
 | yellow       | A524 ||| 32kHz oscillator| unknown||unknown|
 | pink         | 232C | UG11 ||touch controller|Azoteq IQS263||[here](/I5Plus-nrf51822-activity-tracker/Documentation/datasheets/iqs263_datasheet-357247.pdf)
 | purple       | UN8HX |||battery charge controller|UN8HX||[here](/I5Plus-nrf51822-activity-tracker/Documentation/datasheets/iqs263_datasheet-357247.pdf)
-| red          | 8517 | C3H | D8YKN | accelerometer|ST LIS3DH||[here](/I5Plus-nrf51822-activity-tracker/Documentation/datasheets/en.CD00274221.pdf)
+| red          | 8517 | C3H | D8YKN | accelerometer|ST LIS3DH|directly wired to light green as seen [here](/I5Plus-nrf51822-activity-tracker/raw_images/inside/DSC_2345.JPG)|[here](/I5Plus-nrf51822-activity-tracker/Documentation/datasheets/en.CD00274221.pdf)
 | orange       | T24C256A | 15dt3 ||EPROM with 256Kbit||directly wired with light green|	unknown
+
 
 ###additional information:
 - the 4 little teeth on the very left directly connect to the USB connector on the housing
 
 ### more images
 - [this image](/I5Plus-nrf51822-activity-tracker/raw_images/inside/DSC_2338.JPG) and [this image](/I5Plus-nrf51822-activity-tracker/raw_images/inside/DSC_2345.JPG) are better to figure out the PCB layout
+
 ### front PCB:
 
 ![front view 2](/I5Plus-nrf51822-activity-tracker/Documentation/DSC_2318_cropped.JPG "PCB front view")
@@ -37,6 +39,7 @@ Special thanks to:
 - [Goran Mahovlic](https://github.com/goran-mahovlic)
 - [dr. tune from xda-developers forum](https://forum.xda-developers.com/general/accessories/iwown-i5-ble-bracelet-teardown-debug-t3388230)
 - [roninzgz from htcmania forum](https://www.htcmania.com/showthread.php?t=1085110)
+
 
 
 
