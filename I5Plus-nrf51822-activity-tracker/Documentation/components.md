@@ -5,7 +5,7 @@
 | color code | chip label 1st line | chip label 2nd line | chip label 3rd line |purpose of component|name of component|additional information|datasheet|
 |------------|---------------------|---------------------|---------------------|---------------------|-|-|-|
 | dark green   | T160 | MhLJ || High speed oscillator for nRF51| unknown||unknown|
-| light green  | 16A1Y | 1532 ||unknown|unknown|in the linked forum posts below believed to be an Atmel ATmega16U2 (I don't see how that should workout given the label and the different pinout)|unknown|
+| light green  | 16A1Y | 1532 ||display controller|Genitop GT22L16V2Y||[here](/I5Plus-nrf51822-activity-tracker/Documentation/datasheets/GT22L16V2Y.pdf)|
 | mint colored | 622K |||level shifting? 5V to 3.3V|unknown||unknown|
 | cyan         | N51822 | QFAAG0 | 1404AR |Bluetooth/main chip|NRF51822||[here](/I5Plus-nrf51822-activity-tracker/Documentation/datasheets/nRF51822_PS_v3.1.pdf)
 | yellow       | A524 ||| 32kHz oscillator| unknown||unknown|
@@ -39,7 +39,7 @@ Special thanks to:
 - [Goran Mahovlic](https://github.com/goran-mahovlic)
 - [dr. tune from xda-developers forum](https://forum.xda-developers.com/general/accessories/iwown-i5-ble-bracelet-teardown-debug-t3388230)
 - [roninzgz from htcmania forum](https://www.htcmania.com/showthread.php?t=1085110)
-
+[the embdev forum](https://embdev.net/topic/451835?goto=5428931#5428931)
 
 
 
